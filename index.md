@@ -18,19 +18,19 @@ layout: default
 <table>
   <tr>
     <td>
-      <img class="logo" src="/assets/images/logos/Copyright.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/Copyright.png"/>
     </td>
     <td>
-      <img class="logo" src="/assets/images/logos/InfrastructureTools.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/InfrastructureTools.png"/>
     </td>
     <td>
-      <img class="logo" src="/assets/images/logos/OpenAccess.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/OpenAccess.png"/>
     </td>
     <td>
-      <img class="logo" src="/assets/images/logos/JournalHosting.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/JournalHosting.png"/>
     </td>
     <td>
-      <img class="logo" src="/assets/images/logos/DigHum.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/DigHum.png"/>
     </td>
   </tr>
     <td>
@@ -61,13 +61,13 @@ layout: default
 <table>
   <tr>
     <td>
-      <img class="publications" src="/assets/images/books-oer/bookSVP.jpg"/>
+      <img class="publications" src="{{ site.baseurl }}/assets/images/books-oer/bookSVP.jpg"/>
     </td>
     <td>
-      <img class="publications" src="/assets/images/journals/journalOWL.png"/>
+      <img class="publications" src="{{ site.baseurl }}/assets/images/journals/journalOWL.png"/>
     </td>
     <td>
-      <img class="publications" src="/assets/images/projects/projILSecolo.jpg"/>
+      <img class="publications" src="{{ site.baseurl }}/assets/images/projects/projILSecolo.jpg"/>
     </td>
   </tr>
   <tr>
