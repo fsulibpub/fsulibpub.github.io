@@ -150,8 +150,8 @@ div#publications img {
     }
 
     header {
-        height:75px;
-        padding:150px;
+        height:100px;
+        padding:100px;
     }
     nav a {
         width:70px;
@@ -177,17 +177,17 @@ div#publications img {
 
     nav a {
         width:40px;
-        font-size:0.5em;
-        padding:20px;
+        font-size:0.7em;
+        padding:10px;
     }
     
     .dropdown .dropbtn {  
-      font-size: 0.5em;
+      font-size: 0.7em;
     }
 
     header {
-	     height:200px;
-	      padding:200px 0 100px 0;
+	     height:50px;
+	     padding:100px;
     }
 
     h1 {
