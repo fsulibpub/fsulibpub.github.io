@@ -21,6 +21,10 @@ FSU Libraries provide publishing services for journals, monographs, open educati
 - Digital preservation
 - Digital scholarship consultation
 
+## Contact
+
+Contact us at [lib-digischol@fsu.edu](emailto:lib-digischol@fsu.edu).
+
 ## Policies 
 
 ### Diversity Policy
