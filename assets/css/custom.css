@@ -183,10 +183,11 @@ div#publications img {
     
     .dropdown .dropbtn {  
       font-size: 0.7em;
+      padding:10px;
     }
 
     header {
-	     height:50px;
+	     height:100px;
 	     padding:100px;
     }
 
