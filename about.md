@@ -9,7 +9,7 @@ handle: about
 
 {% include mission.liquid %}
 
-FSU Libraries provide publishing services for journals, monographs, open educational resources, and digital scholarship projects. We consult on a variety of scholarly communication topics and digital publishing tools. We aim to provide open access publishing expertise, services, and platforms to enhance the scholarly output of FSU students, faculty, and staff.
+FSU Libraries provide publishing services for journals, monographs, open educational resources, and digital scholarship projects. We consult on a variety of scholarly communication topics and digital publishing tools. We provide open access publishing expertise, services, and platforms to enhance the scholarly output of FSU students, faculty, and staff.
 
 ## Services
 - Journal and monograph hosting
