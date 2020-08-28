@@ -6,4 +6,12 @@ permalink: /contact/
 
 # Contact Us
 
-Here are some ways of getting in touch!
+Devin Soper, Director of Digital Research and Scholarship
+
+Laura Miller, Open Publishing Librarian
+
+Matthew Hunter, Digital Scholarship Librarian
+
+Sarah Stanley, Digital Scholarship Librarian
+
+Camille Thomas, Scholarly Communication Librarian
