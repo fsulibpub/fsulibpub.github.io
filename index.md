@@ -21,7 +21,7 @@ layout: default
       <img class="logo" src="{{ site.baseurl }}/assets/images/logos/Copyright.png"/>
     </td>
     <td>
-      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/InfrastructureTools.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/network icon-01.png.png"/>
     </td>
     <td>
       <img class="logo" src="{{ site.baseurl }}/assets/images/logos/OpenAccess.png"/>
@@ -30,7 +30,7 @@ layout: default
       <img class="logo" src="{{ site.baseurl }}/assets/images/logos/JournalHosting.png"/>
     </td>
     <td>
-      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/DigHum.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/DHweb.png"/>
     </td>
   </tr>
     <td>
