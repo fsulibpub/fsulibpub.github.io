@@ -18,10 +18,10 @@ layout: default
 <table>
   <tr>
     <td>
-      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/Copyright.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/copyright2.png"/>
     </td>
     <td>
-      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/network icon-01.png.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/network2.png"/>
     </td>
     <td>
       <img class="logo" src="{{ site.baseurl }}/assets/images/logos/OpenAccess.png"/>
