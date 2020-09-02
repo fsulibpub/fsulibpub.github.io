@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Society of Florida Archivists Journal"
-description: "The *Society of Florida Archivists Journal* (SFAJ) is a peer-reviewed, open access, fully online publication governed and managed completely by members of the Society of Florida Archivists."
+description: "The Society of Florida Archivists Journal (SFAJ) is a peer-reviewed, open access, fully online publication governed and managed completely by members of the Society of Florida Archivists."
 permalink: /journals/sfaj/
 image: journals/journalSFAJ.jpg
 ---
