@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PLAID: People Living with and Inspired by Diabetes"
-description: "The *PLAID Journal* is a peer-reviewed diabetes research journal focused on people living with and inspired by diabetes."
+description: "The PLAID Journal is a peer-reviewed diabetes research journal focused on people living with and inspired by diabetes."
 permalink: /journals/plaid/
 image: journals/journalPLAID.png
 ---
