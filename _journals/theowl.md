@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Owl: Florida State University's Undergraduate Research Journal"
-description: "*The Owl* is a peer-reviewed publication of research articles written by Florida State University undergraduates, and is published by student editors in partnership with FSU's Center for Undergraduate Research and Academic Engagement."
+description: "The Owl is a peer-reviewed publication of research articles written by Florida State University undergraduates, and is published by student editors in partnership with FSU's Center for Undergraduate Research and Academic Engagement."
 permalink: /journals/theowl/
 image: journals/journalOWL.png
 ---
