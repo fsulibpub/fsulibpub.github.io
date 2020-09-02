@@ -27,7 +27,7 @@ layout: default
       <img class="logo" src="{{ site.baseurl }}/assets/images/logos/OpenAccess.png"/>
     </td>
     <td>
-      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/JournalHosting.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/bookIcon.png" height="70px" width="70px"/>
     </td>
     <td>
       <img class="logo" src="{{ site.baseurl }}/assets/images/logos/DHweb.png" height="70px" width="70px"/>
