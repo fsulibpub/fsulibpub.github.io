@@ -18,10 +18,10 @@ layout: default
 <table>
   <tr>
     <td>
-      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/copyright2.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/copyright2.png" height="70px" width="70px"/>
     </td>
     <td>
-      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/network2.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/network2.png" height="70px" width="70px"/>
     </td>
     <td>
       <img class="logo" src="{{ site.baseurl }}/assets/images/logos/OpenAccess.png"/>
@@ -30,7 +30,7 @@ layout: default
       <img class="logo" src="{{ site.baseurl }}/assets/images/logos/JournalHosting.png"/>
     </td>
     <td>
-      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/DHweb.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/DHweb.png" height="70px" width="70px"/>
     </td>
   </tr>
     <td>
