@@ -4,8 +4,6 @@ title: Contact Us
 permalink: /contact/
 ---
 
-# Contact Us
-
 Devin Soper, Director of Digital Research and Scholarship
 
 Laura Miller, Open Publishing Librarian

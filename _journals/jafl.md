@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Journal of Art for Life"
-description: "The *Journal of Art for Life* (JAFL) is an international, refereed journal focused on art education, museum education, art therapy, and arts administration in authentic, real-world contexts toward the goal of social progress through the arts."
+description: "The Journal of Art for Life (JAFL) is an international, refereed journal focused on art education, museum education, art therapy, and arts administration in authentic, real-world contexts toward the goal of social progress through the arts."
 permalink: /journals/jafl/
 image: journals/journalJAFL.jpg
 ---
