@@ -23,7 +23,7 @@ FSU Libraries provide publishing services for journals, monographs, open educati
 
 ## Contact
 
-Contact us at [lib-digischol@fsu.edu](emailto:lib-digischol@fsu.edu).
+To contact us about publishing opportunities, please use this webform: [https://www.lib.fsu.edu/DRS/form/contact-us](https://www.lib.fsu.edu/DRS/form/contact-us).
 
 ## Policies 
 
