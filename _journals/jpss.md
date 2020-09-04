@@ -6,7 +6,6 @@ permalink: /journals/jpss/
 image: journals/journalJPSS.png
 ---
 
-# Journal for Postsecondary Success
 
 The *Journal of Postsecondary Student Success* (JPSS) is an open-access, interdisciplinary journal that publishes peer-reviewed research, editorials, and practitioner reports related to student success in higher education. We welcome submissions from both scholars and practitioners from all disciplines that involve student success, institutional effectiveness, and educational policy. The innaugural issue of JPSS will published in Spring 2021.
 
