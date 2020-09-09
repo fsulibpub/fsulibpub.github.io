@@ -10,12 +10,12 @@ To propose a publishing project, please complete our Digital Project Consultatio
 
 # Our Staff
 
-Devin Soper, Director of Digital Research and Scholarship
+Devin Soper, Director of Digital Research and Scholarship, dsoper[at]fsu[dot]edu
 
-Laura Miller, Open Publishing Librarian
+Laura Miller, Open Publishing Librarian, lmiller[at]fsu[dot]edu
 
-Matthew Hunter, Digital Scholarship Librarian
+Matthew Hunter, Digital Scholarship Librarian, mhunter2[at]fsu[dot]edu
 
-Sarah Stanley, Digital Humanities Librarian
+Sarah Stanley, Digital Humanities Librarian, scstanley[at]fsu[dot]edu
 
-Camille Thomas, Scholarly Communication Librarian
+Camille Thomas, Scholarly Communication Librarian, cthomas5[at]fsu[dot]edu
