@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Integrating Theory, Research and Practice in Vocational Psychology"
-description: "short description of the book"
+description: "This book’s purpose is to examine the challenges and opportunities for integrating theory, research, and practice in vocational psychology from the perspectives of theorists, researchers, practitioners, and journal editors, with the hope that this knowledge will lead to improved science and career interventions."
 permalink: /books-oer/vocPsy/
 image: books-oer/bookSVP.jpg
 ---
