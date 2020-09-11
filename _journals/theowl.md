@@ -1,12 +1,10 @@
 ---
 layout: default
 title: "The Owl: Florida State University's Undergraduate Research Journal"
-description: "*The Owl* is a peer-reviewed publication of research articles written by Florida State University undergraduates, and is published by student editors in partnership with FSU's Center for Undergraduate Research and Academic Engagement."
+description: "The Owl is a peer-reviewed publication of research articles written by Florida State University undergraduates, and is published by student editors in partnership with FSU's Center for Undergraduate Research and Academic Engagement."
 permalink: /journals/theowl/
 image: journals/journalOWL.png
 ---
-
-# The Owl
 
 *The Owl* is an interdisciplinary journal that publishes the original research of Florida State University undergraduate students. *The Owl's* publications include term papers, faculty-sponsored DIS projects, Honors in the Major work, and IDEA Grant projects, as well as research-based creative works. The latter include artwork, photography, creative writing, and other creative projects whose development was informed by research. Submission to *The Owl* is open to undergraduate students from all majors and disciplines.
 

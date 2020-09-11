@@ -18,19 +18,19 @@ layout: default
 <table>
   <tr>
     <td>
-      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/copyright2.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/copyright2.png" height="95px" width="95px"/>
     </td>
     <td>
-      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/network2.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/network2.png" height="95px" width="95px"/>
     </td>
     <td>
       <img class="logo" src="{{ site.baseurl }}/assets/images/logos/OpenAccess.png"/>
     </td>
     <td>
-      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/JournalHosting.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/bookIcon-01.png" height="95px" width="95px"/>
     </td>
     <td>
-      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/DHweb.png"/>
+      <img class="logo" src="{{ site.baseurl }}/assets/images/logos/DHweb.png" height="95px" width="95px"/>
     </td>
   </tr>
     <td>
