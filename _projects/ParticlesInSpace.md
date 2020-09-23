@@ -6,4 +6,3 @@ permalink: /projects/ParticlesInSpace/
 image: projects/projParticlesInSpace.jpg
 ---
 
-Here is some information about it.
