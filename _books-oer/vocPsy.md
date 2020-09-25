@@ -37,3 +37,6 @@ This publication is based on the 2016 Society for Vocational Psychology (SVP) Bi
    20. The State of the Art in Integrating Theory, Research, and Practice in Vocational Psychology (James P. Sampson, Jr., Emily Bullock-Yowell, V. Casey Dozier, Debra S. Osborn, Janet G. Lenz, Nathan T. Ross). 
 
   A keyword index and an author index are included.
+  
+  
+  The work is availabe from [FSU's Institutional Repository DigiNole here](http://fsu.digital.flvc.org/islandora/object/fsu%3A545120).
