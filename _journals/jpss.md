@@ -27,7 +27,7 @@ General topics of interest include:
 
 In addressing these topics, authors are encouraged to emphasize the practical applications of their knowledge and findings for institutional administrators, policy makers, and practitioners.  
 
-JPSS website: [https://journals.flvc.org/jpss](https://journals.flvc.org/jpss)
+JPSS website: <a href="https://journals.flvc.org/jpss" target="_blank">https://journals.flvc.org/jpss</a>
 
 Contact:
 
