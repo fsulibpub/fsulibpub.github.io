@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Colors of Ozu"
-description: "short description of the project"
+description: "Colors of Ozu is an on-going film analysis project that leverages digital tools and technologies to novelly and creatively examine the final six films of Japanese filmmaker Yasujirō Ozu"
 permalink: /projects/ColorsOfOzu/
 image: projects/projColorsOfOzu.png
 ---
