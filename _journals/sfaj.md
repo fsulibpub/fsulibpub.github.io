@@ -12,7 +12,7 @@ The Journal aims to address topics relevant to the profession by exploring moder
 
 It is the hope of the Editorial Board that this publication will foster exciting conversations about progressive archival approaches and best practices in the state of Florida and beyond.
 
-SFAJ website: https://journals.flvc.org/sfaj
+SFAJ website: [https://journals.flvc.org/sfaj](https://journals.flvc.org/sfaj)
 
 Contact:
 
