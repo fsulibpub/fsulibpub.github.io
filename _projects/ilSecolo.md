@@ -32,4 +32,4 @@ We also wish to thank our Research Assistants, Meghan Crawford and Jessica Garte
 ## Acknowledgements
 The digitization is based on microfilms made available to FSU by the Biblioteca Nazionale Braidense. We wish to thank the staff of the Biblioteca, in particular Dott.ssa Tiziana Mazzali and Roberto Grollo, for allowing us to access and use the Library’s microfilm as the basis for our digitization project.
 
-Project Homepage: [http://ilsecolo.lib.fsu.edu/](http://ilsecolo.lib.fsu.edu/)
+Project Homepage: <a href="http://ilsecolo.lib.fsu.edu/" target="_blank">http://ilsecolo.lib.fsu.edu/</a>

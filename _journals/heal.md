@@ -12,7 +12,7 @@ HEAL contains a mixture of pieces from many sources that, when combined, can be 
 
 HEAL is a publication of the FSU College of Medicine. 
 
-HEAL website: [https://journals.flvc.org/heal](https://journals.flvc.org/heal)
+HEAL website: <a href="https://journals.flvc.org/heal" target="_blank">https://journals.flvc.org/heal</a>
 
 
 Contacts: 

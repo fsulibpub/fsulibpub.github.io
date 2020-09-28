@@ -16,4 +16,4 @@ The *PLAID Journal* will cease publishing new issues in 2021.
 
 This journal is published by the FSU College of Medicine.
 
-[Visit The PLAID Journal](https://theplaidjournal.com/index.php/CoM "PLAID Homepage")
+<a href="https://theplaidjournal.com/index.php/CoM" target="_blank">PLAID Homepage</a>
