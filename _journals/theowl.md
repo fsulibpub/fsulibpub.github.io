@@ -12,4 +12,4 @@ image: journals/journalOWL.png
 
 This journal promotes an interdisciplinary exchange of ideas through the publication of research conducted by outstanding undergraduates at Florida State University. In doing so, *The Owl* showcases the heterogeneity of our emerging scholars and establishes undergraduate research as a focus of Florida State's academic community.
 
-[Visit The Owl](https://journals.flvc.org/owl/index "The Owl homepage")
+OWL website: <a href="https://journals.flvc.org/owl/index" target="_blank">https://journals.flvc.org/owl/index</a>
