@@ -10,4 +10,4 @@ image: journals/journalAthanor.png
 
 *Athanor* was first published in 1981 by Allys Palladino-Craig from the Museum of Fine Arts. After years of development and growth, *Athanor* became one of the first publications of the Museum Press of the Florida State University Museum of Fine Arts in 1994. In 2019, over 30 volumes were digitized by the FSU Digital Library Center and published on Open Journal Systems. Future volumes will publish online at the journal website below. 
 
-*Athanor* website: https://journals.flvc.org/athanor
+*Athanor* website: [https://journals.flvc.org/athanor](https://journals.flvc.org/athanor)
