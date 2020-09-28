@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Particles In Space"
-description: "short description of the project"
+title: "Particles in Space"
+description: "Particles in Space converges digital humanities practices with the histories and study of experimental film & video"
 permalink: /projects/ParticlesInSpace/
 image: projects/projParticlesInSpace.jpg
 ---
