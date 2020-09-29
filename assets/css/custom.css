@@ -8,7 +8,7 @@ header {
   height: 50px;
   text-align: center;
   background-color: #FFB8A2;
-  background: url(/fsuLibPub/assets/images/header.jpg) no-repeat center top fixed;
+  background: url(/fsuLibPub/assets/images/webHeader.jpg) no-repeat center top fixed;
   background-size: cover;
 }
  
