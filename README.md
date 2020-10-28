@@ -1,3 +1,3 @@
-# FSU Libraries Publishing Website
+# Florida State Open Publishing Website
 
-This is the publishing website for FSU Libraries.
+This is the website for Florida State Open Publishing, an initiative of Florida State University Libraries.
