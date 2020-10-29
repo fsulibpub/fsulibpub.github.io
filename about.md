@@ -27,7 +27,8 @@ To contact us about publishing opportunities, please use this webform: [https://
 
 ### Diversity Policy
 We are committed to an environment that welcomes, values, respects and supports the differences and contributions of all members and partners at Florida State and in the global community. We actively cultivate partnerships, author relationships, and a portfolio of scholarly works that reflect the diversity of scholarly communities at FSU and around the world. We are dedicated to facilitating an inclusive scholarly dialogue grounded in respect and appreciation for all individuals and seeks to increase the voices of less represented scholars in the scholarly community. As an open access publisher, we seek to ensure that all communities have the broadest access to knowledge and research scholarship produced by FSU authors through accessible digital platforms and discoverable works.
-Preservation Policy
+
+### Preservation Policy
 
 We commit to preserving the intellectual content of our projects in perpetuity, according to current digital preservation best practices. We are committed to preserving a usable version of all projects and publications. For projects with highly customized interactive presentations, the preservation strategy may include a combination of approaches, including the preservation of a simplified version of the publication alongside the underlying, raw machine-readable code for the complete project. 
 
