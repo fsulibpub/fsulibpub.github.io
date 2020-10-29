@@ -37,7 +37,9 @@ We publish exclusively open access content, and do not restrict access to public
 
 ### Accessibility Policy
 We strive to meet accessibility best practices for web publication. We provide accessibility best practices information to authors and editors, and complete a technical check for long-form publications that includes a review of accessibility issues before a title is published in its final form and listed in our publications catalog. We welcome notification from users if one or more of our titles does not meet an accessibility standard. In cases where accessibility challenges stem from the underlying platforms we use, we will work with the open source development community to report problems and identify solutions.
-Peer review 
+
+### Peer review 
+
 All works published by the Florida State University Libraries are peer reviewed. Journals may select their desired form of peer review (double blind, single blind, or open peer review), and monographs, open educational resources, and digital scholarship projects may undergo post-publication review. Student journals and projects are sponsored and reviewed by a faculty advisor.
 
 ### Core principles 
