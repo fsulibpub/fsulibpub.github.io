@@ -11,9 +11,20 @@ header {
   background: url(/assets/images/goldheader.jpg) no-repeat center top fixed;
   background-size: cover;
 }
+
+footer {
+  height: 75px;
+  text-align: center;
+  background-color: #782F40;
+  color: #FFFFFF;
+}
+
+footer a {
+  color: #CEB888;
+}
  
  h1 {
-   color: #E9EDEE;
+   color: #FFFFFF;
    font-size: 40pt;
 }
 
