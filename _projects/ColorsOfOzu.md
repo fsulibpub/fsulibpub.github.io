@@ -12,4 +12,4 @@ The hope of this project is to inspire media scholars to explore research method
 
 **Author:** David Rodriguez
 
-**Link to Project:** <a href="https://drodz11.github.io/colors-of-ozu" target="_blank"/>https://drodz11.github.io/colors-of-ozu/</a>
+**Link to Project:** <a href="https://drodz11.github.io/colors-of-ozu" target="_blank">https://drodz11.github.io/colors-of-ozu/</a>
