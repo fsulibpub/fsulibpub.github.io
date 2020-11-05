@@ -39,6 +39,6 @@ This publication is based on the 2016 Society for Vocational Psychology (SVP) Bi
   A keyword index and an author index are included.
   
   
-  The work is availabe from <a href="http://fsu.digital.flvc.org/islandora/object/fsu%3A545120" target="_blank">FSU's Institutional Repository DigiNole</a>.
+  The work is available here: <a href="https://journals.flvc.org/svp2016/issue/view/4362" target="_blank">https://journals.flvc.org/svp2016/issue/view/4362</a>.
   
   <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
