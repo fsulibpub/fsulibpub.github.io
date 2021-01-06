@@ -2,7 +2,7 @@
 layout: default
 title: "Bio-Inspired Sensory Systems"
 description: "This open textbook provides an introduction to the variety of proven bio-inspired designs. The focus is on sensory systems that interpret environmental stimuli. Chapters highlight natural photo-, mechano-, and chemo-sensory systems across the animal kingdom and also summarizes various novel engineering ideas that glean ideas from these natural sensory systems."
-permalink: 
+permalink: /oer/biosensys/
 image: books-oer/oerBioInspSys.png
 ---
 ## Bio-Inspired Sensory Systems: Using Natural Photo-, Mechano-, and Chemo-Sensory Systems for Design Inspiration
@@ -16,7 +16,7 @@ About the Author:
 Dr. Geoffrey Brooks is a teaching professor at FSU Panama City regularly teaching undergraduate and graduate course in linear systems theory, digital signal processing, adaptive filters, digital communications, control theory, and other courses such as bio-inspired sensory design.  He may be reached at gbrooks@fsu.edu.
 
 
-The work is availabe at [](). 
+This is forthcoming title to be published in Spring 2021.
 
 
 **Table of Contents**
