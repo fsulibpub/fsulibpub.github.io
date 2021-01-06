@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Bio-Inspired Sensory Systems"
-description: "This open textbook provides an introduction to the variety of proven bio-inspired designs. The focus is on sensory systems that interpret environmental stimuli. Chapters highlight natural photo-, mechano-, and chemo-sensory systems across the animal kingdom and also summarizes various novel engineering ideas that glean ideas from these natural sensory systems."
+description: "This open textbook provides an introduction to the variety of proven bio-inspired designs. The focus is on sensory systems that interpret environmental stimuli. Chapters highlight natural photo-, mechano-, and chemo-sensory systems across the animal kingdom and also summarize various novel engineering ideas that glean ideas from these natural sensory systems."
 permalink: /books-oer/biosensys/
 image: books-oer/oerBioInspSys.png
 ---
