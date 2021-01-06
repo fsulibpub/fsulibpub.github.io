@@ -25,6 +25,7 @@ View the most recent magazine at [https://journals.flvc.org/italianoles/index](h
 
 Faculty sponsors:
 
+Patrick Merle, Director, FSU School of Communication <br />
 Frank Nero, Director, FSU International Programs - Florence <br />
-Lucia Cossari, Associate Director, FSU International Programs - Florence <br />
-Patrick Merle, Director, FSU School of Communication
+Lucia Cossari, Associate Director, FSU International Programs - Florence 
+
