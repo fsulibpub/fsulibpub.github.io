@@ -22,7 +22,7 @@ The book is available for online reading and download at [https://manifold.lib.f
 - Chapter 5 - Chemo-sensory Systems
 - Appendix A
 
-**About the Author**
+**About the Author** <br />
 Dr. Geoffrey Brooks is a teaching professor at Florida State University Panama City, regularly teaching undergraduate and graduate course in linear systems theory, digital signal processing, adaptive filters, digital communications, control theory, and other courses such as bio-inspired sensory design. He may be reached at gbrooks@fsu.edu.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
