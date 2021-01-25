@@ -25,7 +25,7 @@ layout: default
     <td>
       <img class="logo" src="{{ site.baseurl }}/assets/images/logos/network2.png" height="95px" width="95px"/>
       <br/><br/><p><strong>Hosting and Tech Support</strong></p>
-      <p>We host and provide technical support for publishing platforms including <a href="https://pkp.sfu.ca/ojs/" title="Public Knowledge Project homepage for Open Journal Systems">Open Journal Systems</a>, <a href="https://manifold.lib.fsu.edu/" title="Florida State Open Publishing hosted Manifold instance">Manifold</a>, and FSU's institutional repository, <a href="http://diginole.lib.fsu.edu/repository" alt="Florida State University's Digital Research Repository">DigiNole</a>.</p>
+      <p>We host and provide technical support for publishing platforms including <a href="https://pkp.sfu.ca/ojs/" title="Public Knowledge Project homepage for Open Journal Systems">Open Journal Systems</a>, <a href="https://manifold.lib.fsu.edu/" title="Florida State Open Publishing hosted Manifold instance">Manifold</a>, and FSU's institutional repository, <a href="http://diginole.lib.fsu.edu/repository" title="Florida State University's Digital Research Repository">DigiNole</a>.</p>
     </td>
     <td>
       <img class="logo" src="{{ site.baseurl }}/assets/images/logos/OpenAccess.png"/>
