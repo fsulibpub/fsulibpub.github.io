@@ -1,3 +1,9 @@
+---
+layout: default
+title: "New Open Textbook Available from Florida State Open Publishing"
+date: 2021-01-27
+permalink: /news/2021-01-27_oerBioSenSys/
+---
 FSOP Publishes Open Textbook
 
 Florida State Open Publishing releases a new open textbook titled *Bio-Inspired Sensory Systems: Using Natural Photo-, Mechano-, and Chemo-Sensory Systems for Design Inspiration* by Florida State University Panama City faculty member Dr. Geoffrey Brooks. The textbook introduces concepts and designs related to bio-inspired sensory systems. The book is available on Manifold and as a PDF download. 
