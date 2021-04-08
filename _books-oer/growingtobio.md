@@ -3,7 +3,7 @@ layout: default
 title: "From Growing to Biology: Plants 1e"
 description: "From Growing to Biology: Plants 1e brings the latest information for understanding of traditional and modern plant growing, form, and production. Topics covered in 30 chapters include concise and up-to-date ‘big picture’ infographics, student learning outcomes (SLOs), key vocabulary, assessment, as well as identification of 120 species, and more."
 permalink: /books-oer/growingtobio/
-image: books-oer/.png
+image: books-oer/growingtoBio.jpg
 ---
 ## From Growing to Biology: Plants 1e
 By Dr. Gokhan Hacisalihoglu
