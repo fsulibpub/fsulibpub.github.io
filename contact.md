@@ -12,7 +12,7 @@ To propose a publishing project, please complete our Digital Project Consultatio
 
 Devin Soper, Director of Digital Research and Scholarship, dsoper[at]fsu[dot]edu
 
-Laura Miller, Open Publishing Librarian, lmiller[at]fsu[dot]edu
+Laura Miller, Open Publishing Librarian, lmiller4[at]fsu[dot]edu
 
 Matthew Hunter, Digital Scholarship Librarian, mhunter2[at]fsu[dot]edu
 
